@@ -1,4 +1,4 @@
-# -LSBSteganography
+# LSBSteganography
 ステガノグラフィを用いて、画像内にパスワードを保存するアプリケーション
 # LSBステガノグラフィとは
 
